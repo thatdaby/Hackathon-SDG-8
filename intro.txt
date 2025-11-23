@@ -1,0 +1,11 @@
+Welcome To Factory Sim!
+For the next five days, you'll be the manager of a factory!
+[Mantain your factory stats... ]:
+- Money must be above $500! (must be above or equal to $3000 to win!)
+- Production Level must be above 10%! (must be above or equal to 75% to win!)
+- Worker Morale must be above 10% (Don't make them sad now!) (must be above or equal to 75% to win!)
+- Factory Safety must be above 20%
+...to keep the factory up and running!
+Every event gives you passive income. This scales with morale and production level. Keep this in mind!
+Each day will have 4 events, your choices will either increase or decrease a stat.
+Have fun!
